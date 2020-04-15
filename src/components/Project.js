@@ -8,7 +8,7 @@ import Typography from '@material-ui/core/Typography';
 
 const useStyles = makeStyles({
   root: {
-      backgroundColor:'#f44336',
+      backgroundColor:'#ffebee',
     margin:30,
     minWidth: 275,
     padding:30
@@ -60,7 +60,7 @@ export default function OutlinedCard() {
           Word of the Day
         </Typography> */}
         <Typography variant="h5" component="h2">
-            ECommerce
+            ECommerce Webapp
         </Typography>
         {/* <Typography className={classes.pos} color="textSecondary">
           adjective
@@ -69,7 +69,7 @@ export default function OutlinedCard() {
           {/* well meaning and kindly.
           <br />
           {'"a benevolent smile"'} */}
-          Project 3
+          This is a Webapp that allows costomers to buy different things and the store manager will handle all the things through the database.
         </Typography>
       </CardContent>
       <CardActions>
