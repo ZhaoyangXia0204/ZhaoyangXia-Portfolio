@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/ZhaoyangXia-Portfolio/static/js/main.6275caad.chunk.js",
-    "main.js.map": "/ZhaoyangXia-Portfolio/static/js/main.6275caad.chunk.js.map",
-    "runtime-main.js": "/ZhaoyangXia-Portfolio/static/js/runtime-main.2ead25b2.js",
-    "runtime-main.js.map": "/ZhaoyangXia-Portfolio/static/js/runtime-main.2ead25b2.js.map",
-    "static/js/2.dece3432.chunk.js": "/ZhaoyangXia-Portfolio/static/js/2.dece3432.chunk.js",
-    "static/js/2.dece3432.chunk.js.map": "/ZhaoyangXia-Portfolio/static/js/2.dece3432.chunk.js.map",
-    "index.html": "/ZhaoyangXia-Portfolio/index.html",
-    "precache-manifest.2234fd7245e5425aaef491313d6b3a2e.js": "/ZhaoyangXia-Portfolio/precache-manifest.2234fd7245e5425aaef491313d6b3a2e.js",
-    "service-worker.js": "/ZhaoyangXia-Portfolio/service-worker.js",
-    "static/js/2.dece3432.chunk.js.LICENSE.txt": "/ZhaoyangXia-Portfolio/static/js/2.dece3432.chunk.js.LICENSE.txt",
-    "static/media/ZhaoyangXia.jpg": "/ZhaoyangXia-Portfolio/static/media/ZhaoyangXia.37b7187f.jpg",
-    "static/media/ZhaoyangXiaResume.pdf": "/ZhaoyangXia-Portfolio/static/media/ZhaoyangXiaResume.2afc41b4.pdf"
+    "main.js": "/static/js/main.64e7a55b.chunk.js",
+    "main.js.map": "/static/js/main.64e7a55b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56457e76.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56457e76.js.map",
+    "static/js/2.dece3432.chunk.js": "/static/js/2.dece3432.chunk.js",
+    "static/js/2.dece3432.chunk.js.map": "/static/js/2.dece3432.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.190fb5c464615abf9590e4e9c781dd04.js": "/precache-manifest.190fb5c464615abf9590e4e9c781dd04.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.dece3432.chunk.js.LICENSE.txt": "/static/js/2.dece3432.chunk.js.LICENSE.txt",
+    "static/media/ZhaoyangXia.jpg": "/static/media/ZhaoyangXia.37b7187f.jpg",
+    "static/media/ZhaoyangXiaResume.pdf": "/static/media/ZhaoyangXiaResume.2afc41b4.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ead25b2.js",
+    "static/js/runtime-main.56457e76.js",
     "static/js/2.dece3432.chunk.js",
-    "static/js/main.6275caad.chunk.js"
+    "static/js/main.64e7a55b.chunk.js"
   ]
 }
