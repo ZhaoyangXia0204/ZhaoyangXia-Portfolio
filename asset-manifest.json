@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/ZhaoyangXia-Portfolio/static/js/main.6275caad.chunk.js",
+    "main.js.map": "/ZhaoyangXia-Portfolio/static/js/main.6275caad.chunk.js.map",
+    "runtime-main.js": "/ZhaoyangXia-Portfolio/static/js/runtime-main.2ead25b2.js",
+    "runtime-main.js.map": "/ZhaoyangXia-Portfolio/static/js/runtime-main.2ead25b2.js.map",
+    "static/js/2.dece3432.chunk.js": "/ZhaoyangXia-Portfolio/static/js/2.dece3432.chunk.js",
+    "static/js/2.dece3432.chunk.js.map": "/ZhaoyangXia-Portfolio/static/js/2.dece3432.chunk.js.map",
+    "index.html": "/ZhaoyangXia-Portfolio/index.html",
+    "precache-manifest.2234fd7245e5425aaef491313d6b3a2e.js": "/ZhaoyangXia-Portfolio/precache-manifest.2234fd7245e5425aaef491313d6b3a2e.js",
+    "service-worker.js": "/ZhaoyangXia-Portfolio/service-worker.js",
+    "static/js/2.dece3432.chunk.js.LICENSE.txt": "/ZhaoyangXia-Portfolio/static/js/2.dece3432.chunk.js.LICENSE.txt",
+    "static/media/ZhaoyangXia.jpg": "/ZhaoyangXia-Portfolio/static/media/ZhaoyangXia.37b7187f.jpg",
+    "static/media/ZhaoyangXiaResume.pdf": "/ZhaoyangXia-Portfolio/static/media/ZhaoyangXiaResume.2afc41b4.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ead25b2.js",
+    "static/js/2.dece3432.chunk.js",
+    "static/js/main.6275caad.chunk.js"
+  ]
+}
